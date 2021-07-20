@@ -429,7 +429,7 @@ body {
 }
 
 .footer {
-  background-image: url(../../img/footer_background.jpg);
+  background-image: url(../img/footer_background.jpg);
   background-size: cover;
   background-position: center;
   padding: 100px 0 200px;
